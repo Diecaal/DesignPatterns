@@ -1,7 +1,8 @@
-package util;
+package usage;
 
-import implementation.StockGrabber;
-import implementation.StockObserver;
+import structure.implementation.StockGrabber;
+import structure.implementation.StockObserver;
+import structure.util.GetTheStock;
 
 public class GrabStocks {
 public static void main(String[] args){

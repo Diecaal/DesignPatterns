@@ -1,9 +1,9 @@
-package util;
+package structure.util;
 
 import java.text.DecimalFormat;
 
-import implementation.StockGrabber;
 import structure.Subject;
+import structure.implementation.StockGrabber;
 
 public class GetTheStock implements Runnable {
 

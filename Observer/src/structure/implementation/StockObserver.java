@@ -1,4 +1,4 @@
-package implementation;
+package structure.implementation;
 
 import structure.Observer;
 import structure.Subject;
