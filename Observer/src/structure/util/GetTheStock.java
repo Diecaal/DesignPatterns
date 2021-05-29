@@ -2,8 +2,8 @@ package structure.util;
 
 import java.text.DecimalFormat;
 
-import structure.Subject;
-import structure.implementation.StockGrabber;
+import structure.subject.Subject;
+import structure.subject.concrete.StockGrabber;
 
 public class GetTheStock implements Runnable {
 

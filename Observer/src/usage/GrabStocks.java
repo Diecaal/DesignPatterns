@@ -1,7 +1,7 @@
 package usage;
 
-import structure.implementation.StockGrabber;
-import structure.implementation.StockObserver;
+import structure.observer.concrete.StockObserver;
+import structure.subject.concrete.StockGrabber;
 import structure.util.GetTheStock;
 
 public class GrabStocks {

@@ -1,10 +1,10 @@
-package structure.implementation;
+package structure.subject.concrete;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import structure.Observer;
-import structure.Subject;
+import structure.observer.Observer;
+import structure.subject.Subject;
 
 public class StockGrabber implements Subject {
 	

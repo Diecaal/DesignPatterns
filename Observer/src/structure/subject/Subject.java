@@ -1,4 +1,6 @@
-package structure;
+package structure.subject;
+
+import structure.observer.Observer;
 
 public interface Subject {
 	

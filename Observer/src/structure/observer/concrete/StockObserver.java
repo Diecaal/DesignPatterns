@@ -1,7 +1,7 @@
-package structure.implementation;
+package structure.observer.concrete;
 
-import structure.Observer;
-import structure.Subject;
+import structure.observer.Observer;
+import structure.subject.Subject;
 
 // Represents each Observer that is monitoring changes in the subject
 
