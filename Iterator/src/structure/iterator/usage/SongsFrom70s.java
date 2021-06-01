@@ -1,9 +1,9 @@
 package structure.iterator.usage;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 import structure.hierarchy.SongInfo;
+import structure.iterator.MySongIterator;
 import structure.iterator.SongIterator;
 
 /*
@@ -32,7 +32,7 @@ public class SongsFrom70s implements SongIterator {
 	}
 */
 	@Override
-	public Iterator<SongInfo> createIterator() {
-		return this.bestSongs.iterator();
+	public MySongIterator createIterator() {
+		return new MySongIterator( this.bestSongs );
 	}
 }
