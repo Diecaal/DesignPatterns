@@ -1,6 +1,9 @@
 package structure.factories;
 
 import structure.hierarchy.*;
+import structure.hierarchy.concrete.BigUFOEnemyShip;
+import structure.hierarchy.concrete.RocketEnemyShip;
+import structure.hierarchy.concrete.UFOEnemyShip;
 
 public class EnemyShipFactory {
 	

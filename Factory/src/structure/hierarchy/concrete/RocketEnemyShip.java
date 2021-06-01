@@ -1,4 +1,6 @@
-package structure.hierarchy;
+package structure.hierarchy.concrete;
+
+import structure.hierarchy.EnemyShip;
 
 public class RocketEnemyShip extends EnemyShip {
 	

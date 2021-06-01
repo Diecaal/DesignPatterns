@@ -1,4 +1,4 @@
-package structure.hierarchy;
+package structure.hierarchy.concrete;
 
 public class BigUFOEnemyShip extends UFOEnemyShip {
 	
