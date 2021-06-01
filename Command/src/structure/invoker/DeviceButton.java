@@ -12,4 +12,8 @@ public class DeviceButton {
 	public void press() {
 		command.execute();
 	}
+	
+	public void pressUndo() {
+		command.undo();
+	}
 }
