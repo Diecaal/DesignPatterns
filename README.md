@@ -1,6 +1,8 @@
 # Design Patterns
 Repository with simple and quick references examples for most used Design Patterns.
 
+Based in Design Patterns tutorial from Derek Banas: https://youtube.com/playlist?list=PLF206E906175C7E07 
+
 ### Projects reference:
 ```
 src/structure - package
